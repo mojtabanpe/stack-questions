@@ -1,0 +1,67 @@
+.angular-dropdown{
+    width: 400px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.angular-dropdown-value {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    border: 1px solid #213d57;
+    border-bottom: none;
+    color: #213d57;
+    cursor: pointer;
+    border-radius: 5px 5px 0 0;
+}
+.angular-dropdown-value.in-close-view {
+    border-bottom: 1px solid #213d57 !important;
+    border-radius: 5px;
+}
+
+.angular-dropdown-items-container {
+    position: absolute;
+    display: content;
+    width: 100%;
+}
+
+.angular-dropdown-items-container.open {
+    display: content;
+}
+
+.angular-dropdown-items-container.close {
+    display: none;
+}
+
+
+.angular-dropdown-item {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    box-shadow: 0 1px 5px lightgray;
+    padding: 12px;
+    cursor: pointer;
+}
+
+.angular-dropdown-item:hover {
+    background-color: #213d57;
+    color: white;
+    border-radius: 3px;
+    border: 1px solid white;
+}
+
+.angular-dropdown-toggle-button {
+    width: 0; 
+    height: 0; 
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    transition: all .1s linear;
+}
+
+.arrow-up {
+    border-bottom: 5px solid #213d57;
+  }
+  
+  .arrow-down {
+    border-top: 5px solid #213d57;
+  }

@@ -1,0 +1,9 @@
+<div class="angular-dropdown">
+    <div class="angular-dropdown-value" *ngIf="selectedKey" (click)="isOpen = !isOpen" [ngClass]="{'in-close-view': !isOpen}">
+        <span>{{selectedKey}}</span>
+        <span class="angular-dropdown-toggle-button" [ngClass]="isOpen === true ? 'arrow-up' : 'arrow-down'"></span>
+    </div>
+    <div class="angular-dropdown-items-container"  [ngClass]="isOpen === true ? 'open' : 'close'">
+        <div class="angular-dropdown-item" *ngFor="let item of keys" (click)="changeSelectedKey(item)">{{item}}</div>
+    </div>
+</div>

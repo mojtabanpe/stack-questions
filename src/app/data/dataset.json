@@ -1,0 +1,2256 @@
+[
+    {
+        "Date": "2015-01-02",
+        "VIXClose": 17.79,
+        "VIXHigh": 20.14,
+        "VIXLow": 17.05,
+        "VIXOpen": 17.76
+    },
+    {
+        "Date": "2015-01-05",
+        "VIXClose": 19.92,
+        "VIXHigh": 21.29,
+        "VIXLow": 19.19,
+        "VIXOpen": 19.19
+    },
+    {
+        "Date": "2015-01-06",
+        "VIXClose": 21.12,
+        "VIXHigh": 22.9,
+        "VIXLow": 19.52,
+        "VIXOpen": 20.33
+    },
+    {
+        "Date": "2015-01-07",
+        "VIXClose": 19.31,
+        "VIXHigh": 20.72,
+        "VIXLow": 19.04,
+        "VIXOpen": 20.15
+    },
+    {
+        "Date": "2015-01-08",
+        "VIXClose": 17.01,
+        "VIXHigh": 18.09,
+        "VIXLow": 16.99,
+        "VIXOpen": 17.93
+    },
+    {
+        "Date": "2015-01-09",
+        "VIXClose": 17.55,
+        "VIXHigh": 18.42,
+        "VIXLow": 16.44,
+        "VIXOpen": 16.44
+    },
+    {
+        "Date": "2015-01-12",
+        "VIXClose": 19.6,
+        "VIXHigh": 20.44,
+        "VIXLow": 18.02,
+        "VIXOpen": 18.02
+    },
+    {
+        "Date": "2015-01-13",
+        "VIXClose": 20.56,
+        "VIXHigh": 21.58,
+        "VIXLow": 17.65,
+        "VIXOpen": 18.21
+    },
+    {
+        "Date": "2015-01-14",
+        "VIXClose": 21.48,
+        "VIXHigh": 23.34,
+        "VIXLow": 21.32,
+        "VIXOpen": 22.87
+    },
+    {
+        "Date": "2015-01-15",
+        "VIXClose": 22.39,
+        "VIXHigh": 23.31,
+        "VIXLow": 20.86,
+        "VIXOpen": 21.23
+    },
+    {
+        "Date": "2015-01-16",
+        "VIXClose": 20.95,
+        "VIXHigh": 23.43,
+        "VIXLow": 20.95,
+        "VIXOpen": 22.8
+    },
+    {
+        "Date": "2015-01-20",
+        "VIXClose": 19.89,
+        "VIXHigh": 21.37,
+        "VIXLow": 19.58,
+        "VIXOpen": 20.07
+    },
+    {
+        "Date": "2015-01-21",
+        "VIXClose": 18.85,
+        "VIXHigh": 21.28,
+        "VIXLow": 18.64,
+        "VIXOpen": 20.92
+    },
+    {
+        "Date": "2015-01-22",
+        "VIXClose": 16.4,
+        "VIXHigh": 19.23,
+        "VIXLow": 16.07,
+        "VIXOpen": 17.98
+    },
+    {
+        "Date": "2015-01-23",
+        "VIXClose": 16.66,
+        "VIXHigh": 17.09,
+        "VIXLow": 15.81,
+        "VIXOpen": 16.79
+    },
+    {
+        "Date": "2015-01-26",
+        "VIXClose": 15.52,
+        "VIXHigh": 17.43,
+        "VIXLow": 15.52,
+        "VIXOpen": 16.96
+    },
+    {
+        "Date": "2015-01-27",
+        "VIXClose": 17.22,
+        "VIXHigh": 18.41,
+        "VIXLow": 16.67,
+        "VIXOpen": 17.6
+    },
+    {
+        "Date": "2015-01-28",
+        "VIXClose": 20.44,
+        "VIXHigh": 20.44,
+        "VIXLow": 16.92,
+        "VIXOpen": 16.97
+    },
+    {
+        "Date": "2015-01-29",
+        "VIXClose": 18.76,
+        "VIXHigh": 21.56,
+        "VIXLow": 18.66,
+        "VIXOpen": 20.46
+    },
+    {
+        "Date": "2015-01-30",
+        "VIXClose": 20.97,
+        "VIXHigh": 22.18,
+        "VIXLow": 19.24,
+        "VIXOpen": 20.23
+    },
+    {
+        "Date": "2015-02-02",
+        "VIXClose": 19.43,
+        "VIXHigh": 22.81,
+        "VIXLow": 19.35,
+        "VIXOpen": 20.89
+    },
+    {
+        "Date": "2015-02-03",
+        "VIXClose": 17.33,
+        "VIXHigh": 18.89,
+        "VIXLow": 17.2,
+        "VIXOpen": 18.41
+    },
+    {
+        "Date": "2015-02-04",
+        "VIXClose": 18.33,
+        "VIXHigh": 18.38,
+        "VIXLow": 16.82,
+        "VIXOpen": 17.82
+    },
+    {
+        "Date": "2015-02-05",
+        "VIXClose": 16.85,
+        "VIXHigh": 17.43,
+        "VIXLow": 16.67,
+        "VIXOpen": 17.29
+    },
+    {
+        "Date": "2015-02-06",
+        "VIXClose": 17.29,
+        "VIXHigh": 18.74,
+        "VIXLow": 16.06,
+        "VIXOpen": 16.29
+    },
+    {
+        "Date": "2015-02-09",
+        "VIXClose": 18.55,
+        "VIXHigh": 19.28,
+        "VIXLow": 18.21,
+        "VIXOpen": 19.16
+    },
+    {
+        "Date": "2015-02-10",
+        "VIXClose": 17.23,
+        "VIXHigh": 18.36,
+        "VIXLow": 16.97,
+        "VIXOpen": 17.72
+    },
+    {
+        "Date": "2015-02-11",
+        "VIXClose": 16.96,
+        "VIXHigh": 17.81,
+        "VIXLow": 16.82,
+        "VIXOpen": 17.43
+    },
+    {
+        "Date": "2015-02-12",
+        "VIXClose": 15.34,
+        "VIXHigh": 16.47,
+        "VIXLow": 15.28,
+        "VIXOpen": 16.39
+    },
+    {
+        "Date": "2015-02-13",
+        "VIXClose": 14.69,
+        "VIXHigh": 15.64,
+        "VIXLow": 14.69,
+        "VIXOpen": 15.11
+    },
+    {
+        "Date": "2015-02-17",
+        "VIXClose": 15.8,
+        "VIXHigh": 16.33,
+        "VIXLow": 15.53,
+        "VIXOpen": 15.86
+    },
+    {
+        "Date": "2015-02-18",
+        "VIXClose": 15.45,
+        "VIXHigh": 16.74,
+        "VIXLow": 15.44,
+        "VIXOpen": 16.74
+    },
+    {
+        "Date": "2015-02-19",
+        "VIXClose": 15.29,
+        "VIXHigh": 16.22,
+        "VIXLow": 15.1,
+        "VIXOpen": 16.11
+    },
+    {
+        "Date": "2015-02-20",
+        "VIXClose": 14.3,
+        "VIXHigh": 16.29,
+        "VIXLow": 14.27,
+        "VIXOpen": 15.73
+    },
+    {
+        "Date": "2015-02-23",
+        "VIXClose": 14.56,
+        "VIXHigh": 15.48,
+        "VIXLow": 14.49,
+        "VIXOpen": 15.05
+    },
+    {
+        "Date": "2015-02-24",
+        "VIXClose": 13.69,
+        "VIXHigh": 14.63,
+        "VIXLow": 13.53,
+        "VIXOpen": 14.5
+    },
+    {
+        "Date": "2015-02-25",
+        "VIXClose": 13.84,
+        "VIXHigh": 14.06,
+        "VIXLow": 12.86,
+        "VIXOpen": 13.64
+    },
+    {
+        "Date": "2015-02-26",
+        "VIXClose": 13.91,
+        "VIXHigh": 14.57,
+        "VIXLow": 13.55,
+        "VIXOpen": 13.55
+    },
+    {
+        "Date": "2015-02-27",
+        "VIXClose": 13.34,
+        "VIXHigh": 14.17,
+        "VIXLow": 13.29,
+        "VIXOpen": 14.07
+    },
+    {
+        "Date": "2015-03-02",
+        "VIXClose": 13.04,
+        "VIXHigh": 13.9,
+        "VIXLow": 12.87,
+        "VIXOpen": 13.9
+    },
+    {
+        "Date": "2015-03-03",
+        "VIXClose": 13.86,
+        "VIXHigh": 14.69,
+        "VIXLow": 13.25,
+        "VIXOpen": 13.35
+    },
+    {
+        "Date": "2015-03-04",
+        "VIXClose": 14.23,
+        "VIXHigh": 15.33,
+        "VIXLow": 14.13,
+        "VIXOpen": 14.31
+    },
+    {
+        "Date": "2015-03-05",
+        "VIXClose": 14.04,
+        "VIXHigh": 14.58,
+        "VIXLow": 13.88,
+        "VIXOpen": 14.01
+    },
+    {
+        "Date": "2015-03-06",
+        "VIXClose": 15.2,
+        "VIXHigh": 15.83,
+        "VIXLow": 14.18,
+        "VIXOpen": 14.61
+    },
+    {
+        "Date": "2015-03-09",
+        "VIXClose": 15.06,
+        "VIXHigh": 15.76,
+        "VIXLow": 14.71,
+        "VIXOpen": 15.72
+    },
+    {
+        "Date": "2015-03-10",
+        "VIXClose": 16.69,
+        "VIXHigh": 16.91,
+        "VIXLow": 16.03,
+        "VIXOpen": 16.47
+    },
+    {
+        "Date": "2015-03-11",
+        "VIXClose": 16.87,
+        "VIXHigh": 17.19,
+        "VIXLow": 16.29,
+        "VIXOpen": 16.44
+    },
+    {
+        "Date": "2015-03-12",
+        "VIXClose": 15.42,
+        "VIXHigh": 16.45,
+        "VIXLow": 15.3,
+        "VIXOpen": 16.45
+    },
+    {
+        "Date": "2015-03-13",
+        "VIXClose": 16.0,
+        "VIXHigh": 16.74,
+        "VIXLow": 15.32,
+        "VIXOpen": 15.47
+    },
+    {
+        "Date": "2015-03-16",
+        "VIXClose": 15.61,
+        "VIXHigh": 15.89,
+        "VIXLow": 15.36,
+        "VIXOpen": 15.78
+    },
+    {
+        "Date": "2015-03-17",
+        "VIXClose": 15.66,
+        "VIXHigh": 16.37,
+        "VIXLow": 15.66,
+        "VIXOpen": 16.31
+    },
+    {
+        "Date": "2015-03-18",
+        "VIXClose": 13.97,
+        "VIXHigh": 16.29,
+        "VIXLow": 13.38,
+        "VIXOpen": 14.6
+    },
+    {
+        "Date": "2015-03-19",
+        "VIXClose": 14.07,
+        "VIXHigh": 14.97,
+        "VIXLow": 13.84,
+        "VIXOpen": 14.68
+    },
+    {
+        "Date": "2015-03-20",
+        "VIXClose": 13.02,
+        "VIXHigh": 13.53,
+        "VIXLow": 12.54,
+        "VIXOpen": 13.52
+    },
+    {
+        "Date": "2015-03-23",
+        "VIXClose": 13.41,
+        "VIXHigh": 13.53,
+        "VIXLow": 12.89,
+        "VIXOpen": 13.52
+    },
+    {
+        "Date": "2015-03-24",
+        "VIXClose": 13.62,
+        "VIXHigh": 13.68,
+        "VIXLow": 12.59,
+        "VIXOpen": 13.36
+    },
+    {
+        "Date": "2015-03-25",
+        "VIXClose": 15.44,
+        "VIXHigh": 15.55,
+        "VIXLow": 13.2,
+        "VIXOpen": 13.26
+    },
+    {
+        "Date": "2015-03-26",
+        "VIXClose": 15.8,
+        "VIXHigh": 17.19,
+        "VIXLow": 15.23,
+        "VIXOpen": 16.64
+    },
+    {
+        "Date": "2015-03-27",
+        "VIXClose": 15.07,
+        "VIXHigh": 15.83,
+        "VIXLow": 14.19,
+        "VIXOpen": 15.73
+    },
+    {
+        "Date": "2015-03-30",
+        "VIXClose": 14.51,
+        "VIXHigh": 14.76,
+        "VIXLow": 14.08,
+        "VIXOpen": 14.76
+    },
+    {
+        "Date": "2015-03-31",
+        "VIXClose": 15.29,
+        "VIXHigh": 15.74,
+        "VIXLow": 14.33,
+        "VIXOpen": 14.97
+    },
+    {
+        "Date": "2015-04-01",
+        "VIXClose": 15.11,
+        "VIXHigh": 16.66,
+        "VIXLow": 15.08,
+        "VIXOpen": 15.32
+    },
+    {
+        "Date": "2015-04-02",
+        "VIXClose": 14.67,
+        "VIXHigh": 15.51,
+        "VIXLow": 14.27,
+        "VIXOpen": 15.3
+    },
+    {
+        "Date": "2015-04-06",
+        "VIXClose": 14.74,
+        "VIXHigh": 15.76,
+        "VIXLow": 14.04,
+        "VIXOpen": 15.75
+    },
+    {
+        "Date": "2015-04-07",
+        "VIXClose": 14.78,
+        "VIXHigh": 14.81,
+        "VIXLow": 14.01,
+        "VIXOpen": 14.57
+    },
+    {
+        "Date": "2015-04-08",
+        "VIXClose": 13.98,
+        "VIXHigh": 14.77,
+        "VIXLow": 13.75,
+        "VIXOpen": 14.59
+    },
+    {
+        "Date": "2015-04-09",
+        "VIXClose": 13.09,
+        "VIXHigh": 14.59,
+        "VIXLow": 13.09,
+        "VIXOpen": 14.14
+    },
+    {
+        "Date": "2015-04-10",
+        "VIXClose": 12.58,
+        "VIXHigh": 13.26,
+        "VIXLow": 12.51,
+        "VIXOpen": 13.2
+    },
+    {
+        "Date": "2015-04-13",
+        "VIXClose": 13.94,
+        "VIXHigh": 14.31,
+        "VIXLow": 12.71,
+        "VIXOpen": 13.17
+    },
+    {
+        "Date": "2015-04-14",
+        "VIXClose": 13.67,
+        "VIXHigh": 14.74,
+        "VIXLow": 13.64,
+        "VIXOpen": 14.34
+    },
+    {
+        "Date": "2015-04-15",
+        "VIXClose": 12.84,
+        "VIXHigh": 13.58,
+        "VIXLow": 12.83,
+        "VIXOpen": 13.58
+    },
+    {
+        "Date": "2015-04-16",
+        "VIXClose": 12.6,
+        "VIXHigh": 13.35,
+        "VIXLow": 12.5,
+        "VIXOpen": 13.27
+    },
+    {
+        "Date": "2015-04-17",
+        "VIXClose": 13.89,
+        "VIXHigh": 15.02,
+        "VIXLow": 13.73,
+        "VIXOpen": 13.97
+    },
+    {
+        "Date": "2015-04-20",
+        "VIXClose": 13.3,
+        "VIXHigh": 13.67,
+        "VIXLow": 12.83,
+        "VIXOpen": 13.67
+    },
+    {
+        "Date": "2015-04-21",
+        "VIXClose": 13.25,
+        "VIXHigh": 13.51,
+        "VIXLow": 12.66,
+        "VIXOpen": 12.75
+    },
+    {
+        "Date": "2015-04-22",
+        "VIXClose": 12.71,
+        "VIXHigh": 13.8,
+        "VIXLow": 12.57,
+        "VIXOpen": 12.97
+    },
+    {
+        "Date": "2015-04-23",
+        "VIXClose": 12.48,
+        "VIXHigh": 12.96,
+        "VIXLow": 12.12,
+        "VIXOpen": 12.96
+    },
+    {
+        "Date": "2015-04-24",
+        "VIXClose": 12.29,
+        "VIXHigh": 13.02,
+        "VIXLow": 12.16,
+        "VIXOpen": 12.21
+    },
+    {
+        "Date": "2015-04-27",
+        "VIXClose": 13.12,
+        "VIXHigh": 13.4,
+        "VIXLow": 12.33,
+        "VIXOpen": 12.34
+    },
+    {
+        "Date": "2015-04-28",
+        "VIXClose": 12.41,
+        "VIXHigh": 14.23,
+        "VIXLow": 12.41,
+        "VIXOpen": 13.26
+    },
+    {
+        "Date": "2015-04-29",
+        "VIXClose": 13.39,
+        "VIXHigh": 14.34,
+        "VIXLow": 12.61,
+        "VIXOpen": 13.44
+    },
+    {
+        "Date": "2015-04-30",
+        "VIXClose": 14.55,
+        "VIXHigh": 15.29,
+        "VIXLow": 12.49,
+        "VIXOpen": 13.89
+    },
+    {
+        "Date": "2015-05-01",
+        "VIXClose": 12.7,
+        "VIXHigh": 13.98,
+        "VIXLow": 12.68,
+        "VIXOpen": 13.98
+    },
+    {
+        "Date": "2015-05-04",
+        "VIXClose": 12.85,
+        "VIXHigh": 13.18,
+        "VIXLow": 12.1,
+        "VIXOpen": 13.12
+    },
+    {
+        "Date": "2015-05-05",
+        "VIXClose": 14.31,
+        "VIXHigh": 14.41,
+        "VIXLow": 12.97,
+        "VIXOpen": 13.21
+    },
+    {
+        "Date": "2015-05-06",
+        "VIXClose": 15.15,
+        "VIXHigh": 16.36,
+        "VIXLow": 13.89,
+        "VIXOpen": 13.93
+    },
+    {
+        "Date": "2015-05-07",
+        "VIXClose": 15.13,
+        "VIXHigh": 15.97,
+        "VIXLow": 14.81,
+        "VIXOpen": 15.48
+    },
+    {
+        "Date": "2015-05-08",
+        "VIXClose": 12.86,
+        "VIXHigh": 13.42,
+        "VIXLow": 12.7,
+        "VIXOpen": 13.36
+    },
+    {
+        "Date": "2015-05-11",
+        "VIXClose": 13.85,
+        "VIXHigh": 13.85,
+        "VIXLow": 13.0,
+        "VIXOpen": 13.35
+    },
+    {
+        "Date": "2015-05-12",
+        "VIXClose": 13.86,
+        "VIXHigh": 15.13,
+        "VIXLow": 13.73,
+        "VIXOpen": 14.73
+    },
+    {
+        "Date": "2015-05-13",
+        "VIXClose": 13.76,
+        "VIXHigh": 14.04,
+        "VIXLow": 13.06,
+        "VIXOpen": 13.63
+    },
+    {
+        "Date": "2015-05-14",
+        "VIXClose": 12.74,
+        "VIXHigh": 13.29,
+        "VIXLow": 12.72,
+        "VIXOpen": 13.14
+    },
+    {
+        "Date": "2015-05-15",
+        "VIXClose": 12.38,
+        "VIXHigh": 13.09,
+        "VIXLow": 12.35,
+        "VIXOpen": 12.46
+    },
+    {
+        "Date": "2015-05-18",
+        "VIXClose": 12.73,
+        "VIXHigh": 13.22,
+        "VIXLow": 12.55,
+        "VIXOpen": 13.08
+    },
+    {
+        "Date": "2015-05-19",
+        "VIXClose": 12.85,
+        "VIXHigh": 13.13,
+        "VIXLow": 12.55,
+        "VIXOpen": 12.95
+    },
+    {
+        "Date": "2015-05-20",
+        "VIXClose": 12.88,
+        "VIXHigh": 13.27,
+        "VIXLow": 12.62,
+        "VIXOpen": 12.9
+    },
+    {
+        "Date": "2015-05-21",
+        "VIXClose": 12.11,
+        "VIXHigh": 13.09,
+        "VIXLow": 12.09,
+        "VIXOpen": 13.03
+    },
+    {
+        "Date": "2015-05-22",
+        "VIXClose": 12.13,
+        "VIXHigh": 12.37,
+        "VIXLow": 11.82,
+        "VIXOpen": 12.37
+    },
+    {
+        "Date": "2015-05-26",
+        "VIXClose": 14.06,
+        "VIXHigh": 14.63,
+        "VIXLow": 13.34,
+        "VIXOpen": 13.45
+    },
+    {
+        "Date": "2015-05-27",
+        "VIXClose": 13.27,
+        "VIXHigh": 14.41,
+        "VIXLow": 13.05,
+        "VIXOpen": 14.16
+    },
+    {
+        "Date": "2015-05-28",
+        "VIXClose": 13.31,
+        "VIXHigh": 13.99,
+        "VIXLow": 13.31,
+        "VIXOpen": 13.49
+    },
+    {
+        "Date": "2015-05-29",
+        "VIXClose": 13.84,
+        "VIXHigh": 14.43,
+        "VIXLow": 13.4,
+        "VIXOpen": 13.59
+    },
+    {
+        "Date": "2015-06-01",
+        "VIXClose": 13.97,
+        "VIXHigh": 14.86,
+        "VIXLow": 13.47,
+        "VIXOpen": 13.92
+    },
+    {
+        "Date": "2015-06-02",
+        "VIXClose": 14.24,
+        "VIXHigh": 15.05,
+        "VIXLow": 13.59,
+        "VIXOpen": 14.72
+    },
+    {
+        "Date": "2015-06-03",
+        "VIXClose": 13.66,
+        "VIXHigh": 14.2,
+        "VIXLow": 13.4,
+        "VIXOpen": 13.73
+    },
+    {
+        "Date": "2015-06-04",
+        "VIXClose": 14.71,
+        "VIXHigh": 15.49,
+        "VIXLow": 13.99,
+        "VIXOpen": 14.57
+    },
+    {
+        "Date": "2015-06-05",
+        "VIXClose": 14.21,
+        "VIXHigh": 15.65,
+        "VIXLow": 14.21,
+        "VIXOpen": 15.01
+    },
+    {
+        "Date": "2015-06-08",
+        "VIXClose": 15.29,
+        "VIXHigh": 15.5,
+        "VIXLow": 14.67,
+        "VIXOpen": 14.84
+    },
+    {
+        "Date": "2015-06-09",
+        "VIXClose": 14.47,
+        "VIXHigh": 15.74,
+        "VIXLow": 14.47,
+        "VIXOpen": 15.18
+    },
+    {
+        "Date": "2015-06-10",
+        "VIXClose": 13.22,
+        "VIXHigh": 14.37,
+        "VIXLow": 12.96,
+        "VIXOpen": 14.24
+    },
+    {
+        "Date": "2015-06-11",
+        "VIXClose": 12.85,
+        "VIXHigh": 13.22,
+        "VIXLow": 12.56,
+        "VIXOpen": 13.04
+    },
+    {
+        "Date": "2015-06-12",
+        "VIXClose": 13.78,
+        "VIXHigh": 14.02,
+        "VIXLow": 13.3,
+        "VIXOpen": 13.31
+    },
+    {
+        "Date": "2015-06-15",
+        "VIXClose": 15.39,
+        "VIXHigh": 15.57,
+        "VIXLow": 14.91,
+        "VIXOpen": 15.48
+    },
+    {
+        "Date": "2015-06-16",
+        "VIXClose": 14.81,
+        "VIXHigh": 15.62,
+        "VIXLow": 14.81,
+        "VIXOpen": 15.62
+    },
+    {
+        "Date": "2015-06-17",
+        "VIXClose": 14.5,
+        "VIXHigh": 15.49,
+        "VIXLow": 14.07,
+        "VIXOpen": 14.66
+    },
+    {
+        "Date": "2015-06-18",
+        "VIXClose": 13.19,
+        "VIXHigh": 14.03,
+        "VIXLow": 12.54,
+        "VIXOpen": 14.03
+    },
+    {
+        "Date": "2015-06-19",
+        "VIXClose": 13.96,
+        "VIXHigh": 14.0,
+        "VIXLow": 12.96,
+        "VIXOpen": 13.35
+    },
+    {
+        "Date": "2015-06-22",
+        "VIXClose": 12.74,
+        "VIXHigh": 13.46,
+        "VIXLow": 12.43,
+        "VIXOpen": 13.42
+    },
+    {
+        "Date": "2015-06-23",
+        "VIXClose": 12.11,
+        "VIXHigh": 12.68,
+        "VIXLow": 11.93,
+        "VIXOpen": 12.5
+    },
+    {
+        "Date": "2015-06-24",
+        "VIXClose": 13.26,
+        "VIXHigh": 13.33,
+        "VIXLow": 12.01,
+        "VIXOpen": 12.57
+    },
+    {
+        "Date": "2015-06-25",
+        "VIXClose": 14.01,
+        "VIXHigh": 14.16,
+        "VIXLow": 12.92,
+        "VIXOpen": 12.96
+    },
+    {
+        "Date": "2015-06-26",
+        "VIXClose": 14.02,
+        "VIXHigh": 14.91,
+        "VIXLow": 13.64,
+        "VIXOpen": 14.13
+    },
+    {
+        "Date": "2015-06-29",
+        "VIXClose": 18.85,
+        "VIXHigh": 19.5,
+        "VIXLow": 15.82,
+        "VIXOpen": 16.7
+    },
+    {
+        "Date": "2015-06-30",
+        "VIXClose": 18.23,
+        "VIXHigh": 19.8,
+        "VIXLow": 17.49,
+        "VIXOpen": 17.6
+    },
+    {
+        "Date": "2015-07-01",
+        "VIXClose": 16.09,
+        "VIXHigh": 17.26,
+        "VIXLow": 15.65,
+        "VIXOpen": 16.63
+    },
+    {
+        "Date": "2015-07-02",
+        "VIXClose": 16.79,
+        "VIXHigh": 17.48,
+        "VIXLow": 15.39,
+        "VIXOpen": 15.43
+    },
+    {
+        "Date": "2015-07-06",
+        "VIXClose": 17.01,
+        "VIXHigh": 18.95,
+        "VIXLow": 16.57,
+        "VIXOpen": 18.65
+    },
+    {
+        "Date": "2015-07-07",
+        "VIXClose": 16.09,
+        "VIXHigh": 19.2,
+        "VIXLow": 15.93,
+        "VIXOpen": 17.22
+    },
+    {
+        "Date": "2015-07-08",
+        "VIXClose": 19.66,
+        "VIXHigh": 19.76,
+        "VIXLow": 16.94,
+        "VIXOpen": 17.38
+    },
+    {
+        "Date": "2015-07-09",
+        "VIXClose": 19.97,
+        "VIXHigh": 20.05,
+        "VIXLow": 17.2,
+        "VIXOpen": 17.46
+    },
+    {
+        "Date": "2015-07-10",
+        "VIXClose": 16.83,
+        "VIXHigh": 18.17,
+        "VIXLow": 16.6,
+        "VIXOpen": 17.45
+    },
+    {
+        "Date": "2015-07-13",
+        "VIXClose": 13.9,
+        "VIXHigh": 15.36,
+        "VIXLow": 13.82,
+        "VIXOpen": 15.29
+    },
+    {
+        "Date": "2015-07-14",
+        "VIXClose": 13.37,
+        "VIXHigh": 13.95,
+        "VIXLow": 12.9,
+        "VIXOpen": 13.91
+    },
+    {
+        "Date": "2015-07-15",
+        "VIXClose": 13.23,
+        "VIXHigh": 13.97,
+        "VIXLow": 12.81,
+        "VIXOpen": 13.35
+    },
+    {
+        "Date": "2015-07-16",
+        "VIXClose": 12.11,
+        "VIXHigh": 12.61,
+        "VIXLow": 11.87,
+        "VIXOpen": 12.59
+    },
+    {
+        "Date": "2015-07-17",
+        "VIXClose": 11.95,
+        "VIXHigh": 12.22,
+        "VIXLow": 11.77,
+        "VIXOpen": 11.77
+    },
+    {
+        "Date": "2015-07-20",
+        "VIXClose": 12.25,
+        "VIXHigh": 12.37,
+        "VIXLow": 11.71,
+        "VIXOpen": 12.25
+    },
+    {
+        "Date": "2015-07-21",
+        "VIXClose": 12.22,
+        "VIXHigh": 12.79,
+        "VIXLow": 12.21,
+        "VIXOpen": 12.42
+    },
+    {
+        "Date": "2015-07-22",
+        "VIXClose": 12.12,
+        "VIXHigh": 12.83,
+        "VIXLow": 12.05,
+        "VIXOpen": 12.77
+    },
+    {
+        "Date": "2015-07-23",
+        "VIXClose": 12.64,
+        "VIXHigh": 13.08,
+        "VIXLow": 11.73,
+        "VIXOpen": 12.06
+    },
+    {
+        "Date": "2015-07-24",
+        "VIXClose": 13.74,
+        "VIXHigh": 14.73,
+        "VIXLow": 12.86,
+        "VIXOpen": 12.87
+    },
+    {
+        "Date": "2015-07-27",
+        "VIXClose": 15.6,
+        "VIXHigh": 16.27,
+        "VIXLow": 15.03,
+        "VIXOpen": 15.6
+    },
+    {
+        "Date": "2015-07-28",
+        "VIXClose": 13.44,
+        "VIXHigh": 15.62,
+        "VIXLow": 13.32,
+        "VIXOpen": 14.87
+    },
+    {
+        "Date": "2015-07-29",
+        "VIXClose": 12.5,
+        "VIXHigh": 13.59,
+        "VIXLow": 11.85,
+        "VIXOpen": 13.57
+    },
+    {
+        "Date": "2015-07-30",
+        "VIXClose": 12.13,
+        "VIXHigh": 13.42,
+        "VIXLow": 12.09,
+        "VIXOpen": 12.72
+    },
+    {
+        "Date": "2015-07-31",
+        "VIXClose": 12.12,
+        "VIXHigh": 12.63,
+        "VIXLow": 11.82,
+        "VIXOpen": 12.03
+    },
+    {
+        "Date": "2015-08-03",
+        "VIXClose": 12.56,
+        "VIXHigh": 13.55,
+        "VIXLow": 12.32,
+        "VIXOpen": 12.85
+    },
+    {
+        "Date": "2015-08-04",
+        "VIXClose": 13.0,
+        "VIXHigh": 13.22,
+        "VIXLow": 12.29,
+        "VIXOpen": 12.66
+    },
+    {
+        "Date": "2015-08-05",
+        "VIXClose": 12.51,
+        "VIXHigh": 12.72,
+        "VIXLow": 10.88,
+        "VIXOpen": 12.02
+    },
+    {
+        "Date": "2015-08-06",
+        "VIXClose": 13.77,
+        "VIXHigh": 14.25,
+        "VIXLow": 12.16,
+        "VIXOpen": 12.2
+    },
+    {
+        "Date": "2015-08-07",
+        "VIXClose": 13.39,
+        "VIXHigh": 14.58,
+        "VIXLow": 13.29,
+        "VIXOpen": 13.57
+    },
+    {
+        "Date": "2015-08-10",
+        "VIXClose": 12.23,
+        "VIXHigh": 12.78,
+        "VIXLow": 12.18,
+        "VIXOpen": 12.73
+    },
+    {
+        "Date": "2015-08-11",
+        "VIXClose": 13.71,
+        "VIXHigh": 14.33,
+        "VIXLow": 13.02,
+        "VIXOpen": 13.24
+    },
+    {
+        "Date": "2015-08-12",
+        "VIXClose": 13.61,
+        "VIXHigh": 16.28,
+        "VIXLow": 13.45,
+        "VIXOpen": 15.19
+    },
+    {
+        "Date": "2015-08-13",
+        "VIXClose": 13.49,
+        "VIXHigh": 14.33,
+        "VIXLow": 13.06,
+        "VIXOpen": 13.87
+    },
+    {
+        "Date": "2015-08-14",
+        "VIXClose": 12.83,
+        "VIXHigh": 13.87,
+        "VIXLow": 12.8,
+        "VIXOpen": 13.69
+    },
+    {
+        "Date": "2015-08-17",
+        "VIXClose": 13.02,
+        "VIXHigh": 14.52,
+        "VIXLow": 13.01,
+        "VIXOpen": 14.32
+    },
+    {
+        "Date": "2015-08-18",
+        "VIXClose": 13.79,
+        "VIXHigh": 13.94,
+        "VIXLow": 13.17,
+        "VIXOpen": 13.41
+    },
+    {
+        "Date": "2015-08-19",
+        "VIXClose": 15.25,
+        "VIXHigh": 15.96,
+        "VIXLow": 13.73,
+        "VIXOpen": 14.84
+    },
+    {
+        "Date": "2015-08-20",
+        "VIXClose": 19.14,
+        "VIXHigh": 19.24,
+        "VIXLow": 16.13,
+        "VIXOpen": 16.55
+    },
+    {
+        "Date": "2015-08-21",
+        "VIXClose": 28.03,
+        "VIXHigh": 28.38,
+        "VIXLow": 20.8,
+        "VIXOpen": 22.55
+    },
+    {
+        "Date": "2015-08-24",
+        "VIXClose": 40.74,
+        "VIXHigh": 53.29,
+        "VIXLow": 28.03,
+        "VIXOpen": 28.03
+    },
+    {
+        "Date": "2015-08-25",
+        "VIXClose": 36.02,
+        "VIXHigh": 38.06,
+        "VIXLow": 28.08,
+        "VIXOpen": 31.13
+    },
+    {
+        "Date": "2015-08-26",
+        "VIXClose": 30.32,
+        "VIXHigh": 35.62,
+        "VIXLow": 28.67,
+        "VIXOpen": 31.13
+    },
+    {
+        "Date": "2015-08-27",
+        "VIXClose": 26.1,
+        "VIXHigh": 29.9,
+        "VIXLow": 24.49,
+        "VIXOpen": 27.11
+    },
+    {
+        "Date": "2015-08-28",
+        "VIXClose": 26.05,
+        "VIXHigh": 29.2,
+        "VIXLow": 25.77,
+        "VIXOpen": 26.69
+    },
+    {
+        "Date": "2015-08-31",
+        "VIXClose": 28.43,
+        "VIXHigh": 29.37,
+        "VIXLow": 26.63,
+        "VIXOpen": 27.03
+    },
+    {
+        "Date": "2015-09-01",
+        "VIXClose": 31.4,
+        "VIXHigh": 33.82,
+        "VIXLow": 29.91,
+        "VIXOpen": 31.91
+    },
+    {
+        "Date": "2015-09-02",
+        "VIXClose": 26.09,
+        "VIXHigh": 30.45,
+        "VIXLow": 24.77,
+        "VIXOpen": 29.14
+    },
+    {
+        "Date": "2015-09-03",
+        "VIXClose": 25.61,
+        "VIXHigh": 26.31,
+        "VIXLow": 23.45,
+        "VIXOpen": 25.21
+    },
+    {
+        "Date": "2015-09-04",
+        "VIXClose": 27.8,
+        "VIXHigh": 29.47,
+        "VIXLow": 25.68,
+        "VIXOpen": 27.43
+    },
+    {
+        "Date": "2015-09-08",
+        "VIXClose": 24.9,
+        "VIXHigh": 26.25,
+        "VIXLow": 24.13,
+        "VIXOpen": 25.05
+    },
+    {
+        "Date": "2015-09-09",
+        "VIXClose": 26.23,
+        "VIXHigh": 26.82,
+        "VIXLow": 21.51,
+        "VIXOpen": 22.39
+    },
+    {
+        "Date": "2015-09-10",
+        "VIXClose": 24.37,
+        "VIXHigh": 27.22,
+        "VIXLow": 23.53,
+        "VIXOpen": 26.87
+    },
+    {
+        "Date": "2015-09-11",
+        "VIXClose": 23.2,
+        "VIXHigh": 25.81,
+        "VIXLow": 23.15,
+        "VIXOpen": 25.38
+    },
+    {
+        "Date": "2015-09-14",
+        "VIXClose": 24.25,
+        "VIXHigh": 25.32,
+        "VIXLow": 23.64,
+        "VIXOpen": 24.03
+    },
+    {
+        "Date": "2015-09-15",
+        "VIXClose": 22.54,
+        "VIXHigh": 23.77,
+        "VIXLow": 22.13,
+        "VIXOpen": 23.28
+    },
+    {
+        "Date": "2015-09-16",
+        "VIXClose": 21.35,
+        "VIXHigh": 22.94,
+        "VIXLow": 21.09,
+        "VIXOpen": 22.57
+    },
+    {
+        "Date": "2015-09-17",
+        "VIXClose": 21.14,
+        "VIXHigh": 23.33,
+        "VIXLow": 17.87,
+        "VIXOpen": 21.54
+    },
+    {
+        "Date": "2015-09-18",
+        "VIXClose": 22.28,
+        "VIXHigh": 23.99,
+        "VIXLow": 20.98,
+        "VIXOpen": 23.07
+    },
+    {
+        "Date": "2015-09-21",
+        "VIXClose": 20.14,
+        "VIXHigh": 22.48,
+        "VIXLow": 20.05,
+        "VIXOpen": 21.97
+    },
+    {
+        "Date": "2015-09-22",
+        "VIXClose": 22.44,
+        "VIXHigh": 26.29,
+        "VIXLow": 22.25,
+        "VIXOpen": 22.97
+    },
+    {
+        "Date": "2015-09-23",
+        "VIXClose": 22.13,
+        "VIXHigh": 23.2,
+        "VIXLow": 21.14,
+        "VIXOpen": 22.09
+    },
+    {
+        "Date": "2015-09-24",
+        "VIXClose": 23.47,
+        "VIXHigh": 25.3,
+        "VIXLow": 21.81,
+        "VIXOpen": 23.53
+    },
+    {
+        "Date": "2015-09-25",
+        "VIXClose": 23.62,
+        "VIXHigh": 24.29,
+        "VIXLow": 20.81,
+        "VIXOpen": 21.12
+    },
+    {
+        "Date": "2015-09-28",
+        "VIXClose": 27.63,
+        "VIXHigh": 28.33,
+        "VIXLow": 24.94,
+        "VIXOpen": 25.02
+    },
+    {
+        "Date": "2015-09-29",
+        "VIXClose": 26.83,
+        "VIXHigh": 28.2,
+        "VIXLow": 25.76,
+        "VIXOpen": 26.57
+    },
+    {
+        "Date": "2015-09-30",
+        "VIXClose": 24.5,
+        "VIXHigh": 25.88,
+        "VIXLow": 23.25,
+        "VIXOpen": 24.64
+    },
+    {
+        "Date": "2015-10-01",
+        "VIXClose": 22.55,
+        "VIXHigh": 25.23,
+        "VIXLow": 22.55,
+        "VIXOpen": 23.14
+    },
+    {
+        "Date": "2015-10-02",
+        "VIXClose": 20.94,
+        "VIXHigh": 24.47,
+        "VIXLow": 20.35,
+        "VIXOpen": 23.99
+    },
+    {
+        "Date": "2015-10-05",
+        "VIXClose": 19.54,
+        "VIXHigh": 20.42,
+        "VIXLow": 19.14,
+        "VIXOpen": 20.31
+    },
+    {
+        "Date": "2015-10-06",
+        "VIXClose": 19.4,
+        "VIXHigh": 20.32,
+        "VIXLow": 18.82,
+        "VIXOpen": 19.54
+    },
+    {
+        "Date": "2015-10-07",
+        "VIXClose": 18.4,
+        "VIXHigh": 19.73,
+        "VIXLow": 18.33,
+        "VIXOpen": 18.96
+    },
+    {
+        "Date": "2015-10-08",
+        "VIXClose": 17.42,
+        "VIXHigh": 19.02,
+        "VIXLow": 16.34,
+        "VIXOpen": 18.62
+    },
+    {
+        "Date": "2015-10-09",
+        "VIXClose": 17.08,
+        "VIXHigh": 18.2,
+        "VIXLow": 16.89,
+        "VIXOpen": 17.15
+    },
+    {
+        "Date": "2015-10-12",
+        "VIXClose": 16.17,
+        "VIXHigh": 17.81,
+        "VIXLow": 16.15,
+        "VIXOpen": 17.68
+    },
+    {
+        "Date": "2015-10-13",
+        "VIXClose": 17.67,
+        "VIXHigh": 17.7,
+        "VIXLow": 16.14,
+        "VIXOpen": 17.08
+    },
+    {
+        "Date": "2015-10-14",
+        "VIXClose": 18.03,
+        "VIXHigh": 18.78,
+        "VIXLow": 17.3,
+        "VIXOpen": 17.67
+    },
+    {
+        "Date": "2015-10-15",
+        "VIXClose": 16.05,
+        "VIXHigh": 17.85,
+        "VIXLow": 16.04,
+        "VIXOpen": 17.62
+    },
+    {
+        "Date": "2015-10-16",
+        "VIXClose": 15.05,
+        "VIXHigh": 16.86,
+        "VIXLow": 15.05,
+        "VIXOpen": 15.64
+    },
+    {
+        "Date": "2015-10-19",
+        "VIXClose": 14.98,
+        "VIXHigh": 16.23,
+        "VIXLow": 14.82,
+        "VIXOpen": 15.68
+    },
+    {
+        "Date": "2015-10-20",
+        "VIXClose": 15.75,
+        "VIXHigh": 16.34,
+        "VIXLow": 14.72,
+        "VIXOpen": 15.17
+    },
+    {
+        "Date": "2015-10-21",
+        "VIXClose": 16.7,
+        "VIXHigh": 16.7,
+        "VIXLow": 14.41,
+        "VIXOpen": 14.98
+    },
+    {
+        "Date": "2015-10-22",
+        "VIXClose": 14.45,
+        "VIXHigh": 15.92,
+        "VIXLow": 14.45,
+        "VIXOpen": 15.02
+    },
+    {
+        "Date": "2015-10-23",
+        "VIXClose": 14.46,
+        "VIXHigh": 15.12,
+        "VIXLow": 13.24,
+        "VIXOpen": 13.46
+    },
+    {
+        "Date": "2015-10-26",
+        "VIXClose": 15.29,
+        "VIXHigh": 15.43,
+        "VIXLow": 14.68,
+        "VIXOpen": 14.76
+    },
+    {
+        "Date": "2015-10-27",
+        "VIXClose": 15.43,
+        "VIXHigh": 15.99,
+        "VIXLow": 14.78,
+        "VIXOpen": 15.75
+    },
+    {
+        "Date": "2015-10-28",
+        "VIXClose": 14.33,
+        "VIXHigh": 15.73,
+        "VIXLow": 12.8,
+        "VIXOpen": 15.14
+    },
+    {
+        "Date": "2015-10-29",
+        "VIXClose": 14.61,
+        "VIXHigh": 15.46,
+        "VIXLow": 14.33,
+        "VIXOpen": 14.8
+    },
+    {
+        "Date": "2015-10-30",
+        "VIXClose": 15.07,
+        "VIXHigh": 15.39,
+        "VIXLow": 14.0,
+        "VIXOpen": 14.6
+    },
+    {
+        "Date": "2015-11-02",
+        "VIXClose": 14.15,
+        "VIXHigh": 15.51,
+        "VIXLow": 13.67,
+        "VIXOpen": 15.41
+    },
+    {
+        "Date": "2015-11-03",
+        "VIXClose": 14.54,
+        "VIXHigh": 14.73,
+        "VIXLow": 13.81,
+        "VIXOpen": 14.33
+    },
+    {
+        "Date": "2015-11-04",
+        "VIXClose": 15.51,
+        "VIXHigh": 15.88,
+        "VIXLow": 13.96,
+        "VIXOpen": 14.04
+    },
+    {
+        "Date": "2015-11-05",
+        "VIXClose": 15.05,
+        "VIXHigh": 16.39,
+        "VIXLow": 15.0,
+        "VIXOpen": 15.39
+    },
+    {
+        "Date": "2015-11-06",
+        "VIXClose": 14.33,
+        "VIXHigh": 16.0,
+        "VIXLow": 14.32,
+        "VIXOpen": 14.91
+    },
+    {
+        "Date": "2015-11-09",
+        "VIXClose": 16.52,
+        "VIXHigh": 17.09,
+        "VIXLow": 15.14,
+        "VIXOpen": 15.34
+    },
+    {
+        "Date": "2015-11-10",
+        "VIXClose": 15.29,
+        "VIXHigh": 16.96,
+        "VIXLow": 15.24,
+        "VIXOpen": 16.69
+    },
+    {
+        "Date": "2015-11-11",
+        "VIXClose": 16.06,
+        "VIXHigh": 16.15,
+        "VIXLow": 15.02,
+        "VIXOpen": 15.07
+    },
+    {
+        "Date": "2015-11-12",
+        "VIXClose": 18.37,
+        "VIXHigh": 18.5,
+        "VIXLow": 16.65,
+        "VIXOpen": 17.06
+    },
+    {
+        "Date": "2015-11-13",
+        "VIXClose": 20.08,
+        "VIXHigh": 20.67,
+        "VIXLow": 18.2,
+        "VIXOpen": 18.68
+    },
+    {
+        "Date": "2015-11-16",
+        "VIXClose": 18.16,
+        "VIXHigh": 20.55,
+        "VIXLow": 17.25,
+        "VIXOpen": 20.51
+    },
+    {
+        "Date": "2015-11-17",
+        "VIXClose": 18.84,
+        "VIXHigh": 19.59,
+        "VIXLow": 16.86,
+        "VIXOpen": 17.82
+    },
+    {
+        "Date": "2015-11-18",
+        "VIXClose": 16.85,
+        "VIXHigh": 19.45,
+        "VIXLow": 16.8,
+        "VIXOpen": 19.01
+    },
+    {
+        "Date": "2015-11-19",
+        "VIXClose": 16.99,
+        "VIXHigh": 18.26,
+        "VIXLow": 16.0,
+        "VIXOpen": 16.25
+    },
+    {
+        "Date": "2015-11-20",
+        "VIXClose": 15.47,
+        "VIXHigh": 16.38,
+        "VIXLow": 15.47,
+        "VIXOpen": 16.13
+    },
+    {
+        "Date": "2015-11-23",
+        "VIXClose": 15.62,
+        "VIXHigh": 16.74,
+        "VIXLow": 15.38,
+        "VIXOpen": 16.15
+    },
+    {
+        "Date": "2015-11-24",
+        "VIXClose": 15.93,
+        "VIXHigh": 17.21,
+        "VIXLow": 15.48,
+        "VIXOpen": 16.53
+    },
+    {
+        "Date": "2015-11-25",
+        "VIXClose": 15.19,
+        "VIXHigh": 15.89,
+        "VIXLow": 15.05,
+        "VIXOpen": 15.55
+    },
+    {
+        "Date": "2015-11-27",
+        "VIXClose": 15.12,
+        "VIXHigh": 16.09,
+        "VIXLow": 15.12,
+        "VIXOpen": 15.31
+    },
+    {
+        "Date": "2015-11-30",
+        "VIXClose": 16.13,
+        "VIXHigh": 16.57,
+        "VIXLow": 15.52,
+        "VIXOpen": 15.55
+    },
+    {
+        "Date": "2015-12-01",
+        "VIXClose": 14.67,
+        "VIXHigh": 16.34,
+        "VIXLow": 14.63,
+        "VIXOpen": 15.61
+    },
+    {
+        "Date": "2015-12-02",
+        "VIXClose": 15.91,
+        "VIXHigh": 16.49,
+        "VIXLow": 14.71,
+        "VIXOpen": 15.04
+    },
+    {
+        "Date": "2015-12-03",
+        "VIXClose": 18.11,
+        "VIXHigh": 19.35,
+        "VIXLow": 15.86,
+        "VIXOpen": 15.87
+    },
+    {
+        "Date": "2015-12-04",
+        "VIXClose": 14.81,
+        "VIXHigh": 17.65,
+        "VIXLow": 14.69,
+        "VIXOpen": 17.43
+    },
+    {
+        "Date": "2015-12-07",
+        "VIXClose": 15.84,
+        "VIXHigh": 17.18,
+        "VIXLow": 15.58,
+        "VIXOpen": 15.65
+    },
+    {
+        "Date": "2015-12-08",
+        "VIXClose": 17.6,
+        "VIXHigh": 18.33,
+        "VIXLow": 16.52,
+        "VIXOpen": 17.69
+    },
+    {
+        "Date": "2015-12-09",
+        "VIXClose": 19.61,
+        "VIXHigh": 20.13,
+        "VIXLow": 15.72,
+        "VIXOpen": 18.05
+    },
+    {
+        "Date": "2015-12-10",
+        "VIXClose": 19.34,
+        "VIXHigh": 19.72,
+        "VIXLow": 18.13,
+        "VIXOpen": 19.25
+    },
+    {
+        "Date": "2015-12-11",
+        "VIXClose": 24.39,
+        "VIXHigh": 25.27,
+        "VIXLow": 20.88,
+        "VIXOpen": 21.36
+    },
+    {
+        "Date": "2015-12-14",
+        "VIXClose": 22.73,
+        "VIXHigh": 26.81,
+        "VIXLow": 21.47,
+        "VIXOpen": 24.7
+    },
+    {
+        "Date": "2015-12-15",
+        "VIXClose": 20.95,
+        "VIXHigh": 21.62,
+        "VIXLow": 20.02,
+        "VIXOpen": 20.76
+    },
+    {
+        "Date": "2015-12-16",
+        "VIXClose": 17.86,
+        "VIXHigh": 20.24,
+        "VIXLow": 17.12,
+        "VIXOpen": 19.25
+    },
+    {
+        "Date": "2015-12-17",
+        "VIXClose": 18.94,
+        "VIXHigh": 19.05,
+        "VIXLow": 16.13,
+        "VIXOpen": 16.18
+    },
+    {
+        "Date": "2015-12-18",
+        "VIXClose": 20.7,
+        "VIXHigh": 23.3,
+        "VIXLow": 18.75,
+        "VIXOpen": 19.34
+    },
+    {
+        "Date": "2015-12-21",
+        "VIXClose": 18.7,
+        "VIXHigh": 20.21,
+        "VIXLow": 18.7,
+        "VIXOpen": 19.64
+    },
+    {
+        "Date": "2015-12-22",
+        "VIXClose": 16.6,
+        "VIXHigh": 18.22,
+        "VIXLow": 16.6,
+        "VIXOpen": 17.61
+    },
+    {
+        "Date": "2015-12-23",
+        "VIXClose": 15.57,
+        "VIXHigh": 16.25,
+        "VIXLow": 15.33,
+        "VIXOpen": 15.86
+    },
+    {
+        "Date": "2015-12-24",
+        "VIXClose": 15.74,
+        "VIXHigh": 15.88,
+        "VIXLow": 14.45,
+        "VIXOpen": 15.44
+    },
+    {
+        "Date": "2015-12-28",
+        "VIXClose": 16.91,
+        "VIXHigh": 18.13,
+        "VIXLow": 16.88,
+        "VIXOpen": 17.65
+    },
+    {
+        "Date": "2015-12-29",
+        "VIXClose": 16.08,
+        "VIXHigh": 16.48,
+        "VIXLow": 15.63,
+        "VIXOpen": 15.91
+    },
+    {
+        "Date": "2015-12-30",
+        "VIXClose": 17.29,
+        "VIXHigh": 17.42,
+        "VIXLow": 16.5,
+        "VIXOpen": 16.5
+    },
+    {
+        "Date": "2015-12-31",
+        "VIXClose": 18.21,
+        "VIXHigh": 20.39,
+        "VIXLow": 17.51,
+        "VIXOpen": 17.97
+    },
+    {
+        "Date": "2016-01-04",
+        "VIXClose": 20.7,
+        "VIXHigh": 23.36,
+        "VIXLow": 20.67,
+        "VIXOpen": 22.48
+    },
+    {
+        "Date": "2016-01-05",
+        "VIXClose": 19.34,
+        "VIXHigh": 21.06,
+        "VIXLow": 19.25,
+        "VIXOpen": 20.75
+    },
+    {
+        "Date": "2016-01-06",
+        "VIXClose": 20.59,
+        "VIXHigh": 21.86,
+        "VIXLow": 19.8,
+        "VIXOpen": 21.67
+    },
+    {
+        "Date": "2016-01-07",
+        "VIXClose": 24.99,
+        "VIXHigh": 25.86,
+        "VIXLow": 22.4,
+        "VIXOpen": 23.22
+    },
+    {
+        "Date": "2016-01-08",
+        "VIXClose": 27.01,
+        "VIXHigh": 27.08,
+        "VIXLow": 22.48,
+        "VIXOpen": 22.96
+    },
+    {
+        "Date": "2016-01-11",
+        "VIXClose": 24.3,
+        "VIXHigh": 27.39,
+        "VIXLow": 23.83,
+        "VIXOpen": 25.58
+    },
+    {
+        "Date": "2016-01-12",
+        "VIXClose": 22.47,
+        "VIXHigh": 23.93,
+        "VIXLow": 21.91,
+        "VIXOpen": 22.97
+    },
+    {
+        "Date": "2016-01-13",
+        "VIXClose": 25.22,
+        "VIXHigh": 26.11,
+        "VIXLow": 21.44,
+        "VIXOpen": 21.72
+    },
+    {
+        "Date": "2016-01-14",
+        "VIXClose": 23.95,
+        "VIXHigh": 26.28,
+        "VIXLow": 23.07,
+        "VIXOpen": 24.75
+    },
+    {
+        "Date": "2016-01-15",
+        "VIXClose": 27.02,
+        "VIXHigh": 30.95,
+        "VIXLow": 26.67,
+        "VIXOpen": 28.96
+    },
+    {
+        "Date": "2016-01-19",
+        "VIXClose": 26.05,
+        "VIXHigh": 27.59,
+        "VIXLow": 25.21,
+        "VIXOpen": 25.4
+    },
+    {
+        "Date": "2016-01-20",
+        "VIXClose": 27.59,
+        "VIXHigh": 32.09,
+        "VIXLow": 26.59,
+        "VIXOpen": 27.78
+    },
+    {
+        "Date": "2016-01-21",
+        "VIXClose": 26.69,
+        "VIXHigh": 28.43,
+        "VIXLow": 25.01,
+        "VIXOpen": 27.79
+    },
+    {
+        "Date": "2016-01-22",
+        "VIXClose": 22.34,
+        "VIXHigh": 24.55,
+        "VIXLow": 22.22,
+        "VIXOpen": 24.21
+    },
+    {
+        "Date": "2016-01-25",
+        "VIXClose": 24.15,
+        "VIXHigh": 24.31,
+        "VIXLow": 22.38,
+        "VIXOpen": 23.3
+    },
+    {
+        "Date": "2016-01-26",
+        "VIXClose": 22.5,
+        "VIXHigh": 24.02,
+        "VIXLow": 22.33,
+        "VIXOpen": 23.75
+    },
+    {
+        "Date": "2016-01-27",
+        "VIXClose": 23.11,
+        "VIXHigh": 27.22,
+        "VIXLow": 20.42,
+        "VIXOpen": 22.88
+    },
+    {
+        "Date": "2016-01-28",
+        "VIXClose": 22.42,
+        "VIXHigh": 23.81,
+        "VIXLow": 21.9,
+        "VIXOpen": 22.15
+    },
+    {
+        "Date": "2016-01-29",
+        "VIXClose": 20.2,
+        "VIXHigh": 21.74,
+        "VIXLow": 19.5,
+        "VIXOpen": 21.59
+    },
+    {
+        "Date": "2016-02-01",
+        "VIXClose": 19.98,
+        "VIXHigh": 23.66,
+        "VIXLow": 19.61,
+        "VIXOpen": 21.32
+    },
+    {
+        "Date": "2016-02-02",
+        "VIXClose": 21.98,
+        "VIXHigh": 22.42,
+        "VIXLow": 21.06,
+        "VIXOpen": 21.34
+    },
+    {
+        "Date": "2016-02-03",
+        "VIXClose": 21.65,
+        "VIXHigh": 27.7,
+        "VIXLow": 21.42,
+        "VIXOpen": 21.49
+    },
+    {
+        "Date": "2016-02-04",
+        "VIXClose": 21.84,
+        "VIXHigh": 23.14,
+        "VIXLow": 21.24,
+        "VIXOpen": 22.29
+    },
+    {
+        "Date": "2016-02-05",
+        "VIXClose": 23.38,
+        "VIXHigh": 24.11,
+        "VIXLow": 21.91,
+        "VIXOpen": 22.09
+    },
+    {
+        "Date": "2016-02-08",
+        "VIXClose": 26.0,
+        "VIXHigh": 27.72,
+        "VIXLow": 25.56,
+        "VIXOpen": 25.89
+    },
+    {
+        "Date": "2016-02-09",
+        "VIXClose": 26.54,
+        "VIXHigh": 28.31,
+        "VIXLow": 25.99,
+        "VIXOpen": 28.3
+    },
+    {
+        "Date": "2016-02-10",
+        "VIXClose": 26.29,
+        "VIXHigh": 26.6,
+        "VIXLow": 24.47,
+        "VIXOpen": 25.75
+    },
+    {
+        "Date": "2016-02-11",
+        "VIXClose": 28.14,
+        "VIXHigh": 30.9,
+        "VIXLow": 26.67,
+        "VIXOpen": 29.01
+    },
+    {
+        "Date": "2016-02-12",
+        "VIXClose": 25.4,
+        "VIXHigh": 27.57,
+        "VIXLow": 24.92,
+        "VIXOpen": 27.16
+    },
+    {
+        "Date": "2016-02-16",
+        "VIXClose": 24.11,
+        "VIXHigh": 25.52,
+        "VIXLow": 23.32,
+        "VIXOpen": 24.96
+    },
+    {
+        "Date": "2016-02-17",
+        "VIXClose": 22.31,
+        "VIXHigh": 24.16,
+        "VIXLow": 21.83,
+        "VIXOpen": 23.4
+    },
+    {
+        "Date": "2016-02-18",
+        "VIXClose": 21.64,
+        "VIXHigh": 22.53,
+        "VIXLow": 21.29,
+        "VIXOpen": 22.16
+    },
+    {
+        "Date": "2016-02-19",
+        "VIXClose": 20.53,
+        "VIXHigh": 23.44,
+        "VIXLow": 20.52,
+        "VIXOpen": 22.39
+    },
+    {
+        "Date": "2016-02-22",
+        "VIXClose": 19.38,
+        "VIXHigh": 20.35,
+        "VIXLow": 19.02,
+        "VIXOpen": 20.14
+    },
+    {
+        "Date": "2016-02-23",
+        "VIXClose": 20.98,
+        "VIXHigh": 21.16,
+        "VIXLow": 19.54,
+        "VIXOpen": 19.75
+    },
+    {
+        "Date": "2016-02-24",
+        "VIXClose": 20.72,
+        "VIXHigh": 22.87,
+        "VIXLow": 20.26,
+        "VIXOpen": 22.28
+    },
+    {
+        "Date": "2016-02-25",
+        "VIXClose": 19.11,
+        "VIXHigh": 21.26,
+        "VIXLow": 19.1,
+        "VIXOpen": 20.54
+    },
+    {
+        "Date": "2016-02-26",
+        "VIXClose": 19.81,
+        "VIXHigh": 20.13,
+        "VIXLow": 18.46,
+        "VIXOpen": 18.89
+    },
+    {
+        "Date": "2016-02-29",
+        "VIXClose": 20.55,
+        "VIXHigh": 20.81,
+        "VIXLow": 18.38,
+        "VIXOpen": 20.49
+    },
+    {
+        "Date": "2016-03-01",
+        "VIXClose": 17.7,
+        "VIXHigh": 20.17,
+        "VIXLow": 17.66,
+        "VIXOpen": 19.84
+    },
+    {
+        "Date": "2016-03-02",
+        "VIXClose": 17.09,
+        "VIXHigh": 18.41,
+        "VIXLow": 16.78,
+        "VIXOpen": 17.98
+    },
+    {
+        "Date": "2016-03-03",
+        "VIXClose": 16.7,
+        "VIXHigh": 17.56,
+        "VIXLow": 16.32,
+        "VIXOpen": 17.25
+    },
+    {
+        "Date": "2016-03-04",
+        "VIXClose": 16.86,
+        "VIXHigh": 17.35,
+        "VIXLow": 16.05,
+        "VIXOpen": 16.48
+    },
+    {
+        "Date": "2016-03-07",
+        "VIXClose": 17.35,
+        "VIXHigh": 18.04,
+        "VIXLow": 16.87,
+        "VIXOpen": 17.98
+    },
+    {
+        "Date": "2016-03-08",
+        "VIXClose": 18.67,
+        "VIXHigh": 18.89,
+        "VIXLow": 17.82,
+        "VIXOpen": 18.38
+    },
+    {
+        "Date": "2016-03-09",
+        "VIXClose": 18.34,
+        "VIXHigh": 19.11,
+        "VIXLow": 18.31,
+        "VIXOpen": 18.56
+    },
+    {
+        "Date": "2016-03-10",
+        "VIXClose": 18.05,
+        "VIXHigh": 19.59,
+        "VIXLow": 17.06,
+        "VIXOpen": 18.17
+    },
+    {
+        "Date": "2016-03-11",
+        "VIXClose": 16.5,
+        "VIXHigh": 17.27,
+        "VIXLow": 16.28,
+        "VIXOpen": 17.09
+    },
+    {
+        "Date": "2016-03-14",
+        "VIXClose": 16.92,
+        "VIXHigh": 17.67,
+        "VIXLow": 16.69,
+        "VIXOpen": 17.01
+    },
+    {
+        "Date": "2016-03-15",
+        "VIXClose": 16.84,
+        "VIXHigh": 17.85,
+        "VIXLow": 16.84,
+        "VIXOpen": 17.6
+    },
+    {
+        "Date": "2016-03-16",
+        "VIXClose": 14.99,
+        "VIXHigh": 16.33,
+        "VIXLow": 14.89,
+        "VIXOpen": 15.96
+    },
+    {
+        "Date": "2016-03-17",
+        "VIXClose": 14.44,
+        "VIXHigh": 15.38,
+        "VIXLow": 13.82,
+        "VIXOpen": 15.34
+    },
+    {
+        "Date": "2016-03-18",
+        "VIXClose": 14.02,
+        "VIXHigh": 14.36,
+        "VIXLow": 13.75,
+        "VIXOpen": 14.05
+    },
+    {
+        "Date": "2016-03-21",
+        "VIXClose": 13.79,
+        "VIXHigh": 14.73,
+        "VIXLow": 13.79,
+        "VIXOpen": 14.57
+    },
+    {
+        "Date": "2016-03-22",
+        "VIXClose": 14.17,
+        "VIXHigh": 14.76,
+        "VIXLow": 13.75,
+        "VIXOpen": 14.57
+    },
+    {
+        "Date": "2016-03-23",
+        "VIXClose": 14.94,
+        "VIXHigh": 15.03,
+        "VIXLow": 14.33,
+        "VIXOpen": 14.57
+    },
+    {
+        "Date": "2016-03-24",
+        "VIXClose": 14.74,
+        "VIXHigh": 16.44,
+        "VIXLow": 14.71,
+        "VIXOpen": 16.3
+    },
+    {
+        "Date": "2016-03-28",
+        "VIXClose": 15.24,
+        "VIXHigh": 16.04,
+        "VIXLow": 14.89,
+        "VIXOpen": 15.65
+    },
+    {
+        "Date": "2016-03-29",
+        "VIXClose": 13.82,
+        "VIXHigh": 15.89,
+        "VIXLow": 13.79,
+        "VIXOpen": 15.74
+    },
+    {
+        "Date": "2016-03-30",
+        "VIXClose": 13.56,
+        "VIXHigh": 13.89,
+        "VIXLow": 13.06,
+        "VIXOpen": 13.69
+    },
+    {
+        "Date": "2016-03-31",
+        "VIXClose": 13.95,
+        "VIXHigh": 14.28,
+        "VIXLow": 13.49,
+        "VIXOpen": 13.73
+    },
+    {
+        "Date": "2016-04-01",
+        "VIXClose": 13.1,
+        "VIXHigh": 15.28,
+        "VIXLow": 13.0,
+        "VIXOpen": 15.23
+    },
+    {
+        "Date": "2016-04-04",
+        "VIXClose": 14.12,
+        "VIXHigh": 14.24,
+        "VIXLow": 13.66,
+        "VIXOpen": 13.88
+    },
+    {
+        "Date": "2016-04-05",
+        "VIXClose": 15.42,
+        "VIXHigh": 15.72,
+        "VIXLow": 14.93,
+        "VIXOpen": 15.39
+    },
+    {
+        "Date": "2016-04-06",
+        "VIXClose": 14.09,
+        "VIXHigh": 15.98,
+        "VIXLow": 14.0,
+        "VIXOpen": 15.61
+    },
+    {
+        "Date": "2016-04-07",
+        "VIXClose": 16.16,
+        "VIXHigh": 16.77,
+        "VIXLow": 14.68,
+        "VIXOpen": 15.14
+    },
+    {
+        "Date": "2016-04-08",
+        "VIXClose": 15.36,
+        "VIXHigh": 15.93,
+        "VIXLow": 14.84,
+        "VIXOpen": 15.34
+    },
+    {
+        "Date": "2016-04-11",
+        "VIXClose": 16.26,
+        "VIXHigh": 16.26,
+        "VIXLow": 14.83,
+        "VIXOpen": 15.34
+    },
+    {
+        "Date": "2016-04-12",
+        "VIXClose": 14.85,
+        "VIXHigh": 16.57,
+        "VIXLow": 14.84,
+        "VIXOpen": 15.98
+    },
+    {
+        "Date": "2016-04-13",
+        "VIXClose": 13.84,
+        "VIXHigh": 14.53,
+        "VIXLow": 13.6,
+        "VIXOpen": 14.49
+    }
+]
